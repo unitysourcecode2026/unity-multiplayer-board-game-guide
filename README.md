@@ -1,5 +1,7 @@
 # Unity Multiplayer Board Game Guide
 
+![Unity Multiplayer Board Game Guide](unity-multiplayer-board-game-guide.webp)
+
 A practical technical guide to building multiplayer board games with Unity.
 
 This repository covers multiplayer architecture, client-server communication,
